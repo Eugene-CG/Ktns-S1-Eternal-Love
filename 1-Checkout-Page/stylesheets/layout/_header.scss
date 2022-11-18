@@ -1,0 +1,23 @@
+.header {
+  width: 100%;
+  display: flex;
+  &__your-order {
+    min-width: 75%;
+    padding: 2em;
+    padding-left: 3em;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid black;
+  }
+  &__help-center {
+    padding: 2em;
+  }
+}
+
+.order-info__text {
+}
+.h4-text {
+}
+.order-info__list-item {
+}

@@ -1,0 +1,17 @@
+.help-center {
+  display: flex;
+  flex-direction: column;
+  gap: 2em;
+  justify-content: center;
+  border: 1px solid black;
+}
+.help-center__text {
+}
+.help-center__p {
+}
+.help-center__address {
+  display: flex;
+  gap: 2em;
+}
+.help-center__address-link {
+}

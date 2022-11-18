@@ -1,0 +1,16 @@
+.btn {
+  margin: 15px 30px;
+  padding: 25px 80px;
+  display: inline-block;
+  position: relative;
+  letter-spacing: 1px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  color: inherit;
+  font-family: "Lato";
+  font-size: inherit;
+  font-weight: 700;
+  background: rgba($color: #000000, $alpha: 0.5);
+  transition: all 0.3s;
+}

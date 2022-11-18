@@ -1,0 +1,15 @@
+.nav-btns {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  background: #edeef5;
+
+  &__btn {
+    border: 1px solid gray;
+    background: none;
+  }
+}
+.nav-btns__btn-back {
+}
+.nav-btns__btn-sign-in {
+}

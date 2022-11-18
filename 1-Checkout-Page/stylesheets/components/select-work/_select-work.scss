@@ -1,0 +1,17 @@
+.select-work {
+  min-width: 100%;
+  margin-top: 5em; //I cant do this lmao
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3em;
+  &__title {
+    font-size: 2em;
+    text-decoration: underline;
+  }
+  &__labels {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+  }
+}

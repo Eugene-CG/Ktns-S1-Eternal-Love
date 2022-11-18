@@ -1,0 +1,21 @@
+.wrapper {
+  width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  background: #edeef5;
+
+  &__container {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid black;
+    background: #f8f8fa;
+  }
+  &__nav-btns {
+    padding: 80px 0;
+    outline: 1px solid #edeef5 !important;
+    border-bottom: 1px solid black;
+  }
+}

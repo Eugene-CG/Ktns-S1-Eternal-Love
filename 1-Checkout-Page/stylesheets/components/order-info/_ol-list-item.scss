@@ -1,0 +1,13 @@
+.ol-list-item {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  &__p {
+    white-space: nowrap;
+    opacity: 0.6;
+  }
+}
+.ol-list-item__title {
+}
+.ol-list-item__p {
+}
